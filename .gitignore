@@ -1,0 +1,34 @@
+# Python/Streamlit
+__pycache__/
+.streamlit/secrets.toml
+.env
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data/Reports
+pdf_chart_*.png
+tmp_docx_*.png
+tmp_pdf_*.png
+report_templates.json
+attribute_history.csv
+
+# OS
+.DS_Store
+Thumbs.db

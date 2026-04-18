@@ -1,0 +1,14 @@
+pandas
+streamlit>=1.31.1
+altair
+matplotlib
+seaborn
+plotly
+groq
+python-dotenv
+openpyxl
+kaleido==1.2.0
+numpy==1.26.4
+scipy
+python-docx
+fpdf2
