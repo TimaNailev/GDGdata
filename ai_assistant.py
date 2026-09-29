@@ -28,7 +28,7 @@ except Exception:
 GROQ_API_KEY = secret_key if secret_key else env_key
 AI_READY = bool(GROQ_API_KEY)
 
-MODEL_ID = "llama-3.3-70b-versatile"
+MODEL_ID = "openai/gpt-oss-120b"
 
 SYSTEM_PROMPT = """You are **Captain Price**, the built-in AI assistant for "Call of Data" — a data-wrangling application.
 
